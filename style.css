@@ -1,0 +1,47 @@
+.div1 {
+  background-color: white;
+  width: 500px;
+  padding: 25px;
+  border-radius: 10px;
+}
+body {
+  background-color: hsl(30, 54%, 90%);
+  display: flex;
+  justify-content: center;
+}
+.img1 {
+  width: 100%;
+  border-radius: 10px;
+}
+.div2 {
+  background-color: hsl(330, 100%, 98%);
+  border-radius: 6px;
+  padding: 5px;
+}
+.h2 {
+  color: hsl(332, 51%, 32%);
+}
+.h3 {
+  color: hsl(14, 45%, 36%);
+}
+.li1 {
+  margin: 10px;
+}
+.li2 {
+  margin: 10px;
+}
+.div3 {
+  border-bottom: 2px solid hsl(30, 18%, 87%);
+}
+.h4 {
+  color: hsl(14, 45%, 36%);
+}
+.li5 {
+  margin: 10px;
+}
+.h8 {
+  color: hsl(14, 45%, 36%);
+}
+.p1 {
+  color: hsl(30, 10%, 34%);
+}
